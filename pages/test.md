@@ -1,5 +1,5 @@
 ---
-title: test.md
+title: test
 ---
 
 ##
