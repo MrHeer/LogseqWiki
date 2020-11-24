@@ -1,5 +1,5 @@
 ---
-title: /draft/test.md
+title: test.md
 ---
 
-## 
+##
