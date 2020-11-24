@@ -4,35 +4,35 @@
   "source": "https://logseq.com",
   "elements": [
     {
-      "id": "r8bd8gwRplskuCysPD1Rf",
       "type": "text",
-      "x": 644,
-      "y": 273,
-      "width": 197,
-      "height": 26,
-      "angle": 0,
-      "strokeColor": "#000000",
-      "backgroundColor": "transparent",
+      "version": 63,
+      "versionNonce": 1733397667,
+      "isDeleted": false,
+      "id": "r8bd8gwRplskuCysPD1Rf",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
-      "groupIds": [],
+      "angle": 0,
+      "x": 743,
+      "y": 277,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 197,
+      "height": 26,
       "seed": 438014341,
-      "version": 27,
-      "versionNonce": 1496746341,
-      "isDeleted": false,
-      "text": "It's so crazy, OMG!",
+      "groupIds": [],
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "It's so crazy, OMG!",
+      "baseline": 18,
       "textAlign": "left",
-      "verticalAlign": "top",
-      "baseline": 18
+      "verticalAlign": "top"
     }
   ],
   "appState": {
-    "viewBackgroundColor": "#ffffff",
+    "viewBackgroundColor": "#FFF",
     "gridSize": null
   }
 }
